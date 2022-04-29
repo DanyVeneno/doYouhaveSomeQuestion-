@@ -1,0 +1,60 @@
+
+body {
+  /*background-color: #E8ECEF;*/
+  
+	background-image: url(../img/07.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+        background-position: center;
+        background-attachment:fixed;
+        z-index: 2;
+}
+
+.jumbotron{
+background-color:rgba(0, 0, 0, 0.7);
+color:rgba(255,255,255,0.6);
+}
+.titlle{
+	color:rgba(255,255,255,0.6);
+}
+label{
+color:rgba(255,255,255,0.6);
+
+}
+.centered {
+	padding-top: 200px;
+	text-align: center;
+}
+
+.secret-text {
+	text-align: center;
+	font-size: 2rem;
+	color: #fff;
+	background-color: rgba(0,0,0,0.6);
+}
+.card{
+background-color:rgba(0, 0, 0, 0.7);
+}
+#login{
+  background: rgba(1, 0, 0, 0.61);
+  color:rgb(255,255,255);
+}
+
+#tT{
+color:rgba(255, 255, 255, 0.7);
+
+}
+/* identificadores*/
+
+#numbrerOne{
+background-color:rgba(0, 0, 0, 0.69);
+}
+#numberTwo{
+background-color:rgba(0, 0, 0, 0.69);
+}
+#numberThree{
+
+}
+#numberFour{
+
+}
